@@ -203,12 +203,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "urpvolumetricfog": {
-      "version": "file:G:/Unity-URP-Volumetric-Light-main",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

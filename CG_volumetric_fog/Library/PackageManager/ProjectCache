@@ -1,39 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: G:/Computer_Graphics/My project/Packages/manifest.json
+    m_FilePath: G:/Computer_Graphics/CG_volumetric_fog/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638898530038233514
-    m_Hash: 329199421
+      ticks: 638900045803872698
+    m_Hash: 3518121991
   m_LockFileStatus:
-    m_FilePath: G:/Computer_Graphics/My project/Packages/packages-lock.json
+    m_FilePath: G:/Computer_Graphics/CG_volumetric_fog/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638898530038300274
-    m_Hash: 2254135084
+      ticks: 638900045803925656
+    m_Hash: 1574814999
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
-  m_LocalFileStatus:
-  - m_FilePath: G:\Unity-URP-Volumetric-Light-main/package.json
-    m_PathExists: 1
-    m_ContentTrackingEnabled: 1
-    m_ModificationDate:
-      serializedVersion: 2
-      ticks: 638898057089727443
-    m_Hash: 75434560
-  - m_FilePath: G:\Unity-URP-Volumetric-Light-main
-    m_PathExists: 1
-    m_ContentTrackingEnabled: 1
-    m_ModificationDate:
-      serializedVersion: 2
-      ticks: 0
-    m_Hash: 0
-m_ProjectPath: G:/Computer_Graphics/My project/Packages
+  m_LocalFileStatus: []
+m_ProjectPath: G:/Computer_Graphics/CG_volumetric_fog/Packages
 m_EditorVersion: 6000.0.54f1 (4c506e5b5cc5)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@2.0.8
@@ -41,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.8
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.ai.navigation@eb5635ad590d
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -163,7 +149,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.8.2
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -335,7 +321,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.36
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -462,7 +448,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.23
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -577,7 +563,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.1
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.inputsystem@978211393e28
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.inputsystem@978211393e28
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -770,7 +756,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -863,7 +849,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.0.4
   source: 2
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.render-pipelines.universal@8a6413315f5b
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.render-pipelines.universal@8a6413315f5b
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -989,7 +975,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.5.1
   source: 2
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.test-framework@dfdbd02f5918
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.test-framework@dfdbd02f5918
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1078,7 +1064,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.timeline@c58b4ee65782
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.timeline@c58b4ee65782
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1273,7 +1259,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.ugui@529b01454a55
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.ugui@529b01454a55
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1368,7 +1354,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.7
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1489,83 +1475,6 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 1.9.7
     minimumUnityVersion: 2021.3.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: urpvolumetricfog@file:G:\Unity-URP-Volumetric-Light-main
-  testable: 0
-  isDirectDependency: 1
-  version: 0.5.6
-  source: 4
-  resolvedPath: G:\Unity-URP-Volumetric-Light-main
-  assetPath: Packages/urpvolumetricfog
-  name: urpvolumetricfog
-  displayName: URP Volumetric Fog
-  author:
-    name: Davide_migliaccio
-    email: dav.migliaccio@stud.uniroma3.it
-    url: https://github.com/DavideMigliaccio98
-  category: 
-  type: 
-  description: Volumetric fog integrated into URP's volume system. Supports additional
-    lights, shadows and cookies. Render graph support is available for Unity 6 and
-    above.
-  errors: []
-  versions:
-    all: []
-    compatible: []
-    recommended: 
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - volumetric
-  - fog
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-  fingerprint: 
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 
-    minimumUnityVersion: 2022.3.18f1
   compliance:
     status: 0
     violation:
@@ -4304,7 +4213,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.ext.nunit@031a54704bff
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4383,7 +4292,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.render-pipelines.core@49e016681e2a
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.render-pipelines.core@49e016681e2a
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -4508,7 +4417,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.4
   source: 2
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.shadergraph@8939c506bcb4
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.shadergraph@8939c506bcb4
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4623,7 +4532,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.render-pipelines.universal-config@dd206bf35d04
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -4730,7 +4639,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -4826,7 +4735,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.23
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.burst@6aff1dd08a0c
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.burst@6aff1dd08a0c
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -5056,7 +4965,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -5154,7 +5063,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.1
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.collections@56bff8827a7e
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.collections@56bff8827a7e
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5342,7 +5251,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.rendering.light-transport@9bd588f963c0
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -5447,7 +5356,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.4
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -5538,7 +5447,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.1.0
   source: 1
-  resolvedPath: G:\Computer_Graphics\My project\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
+  resolvedPath: G:\Computer_Graphics\CG_volumetric_fog\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API

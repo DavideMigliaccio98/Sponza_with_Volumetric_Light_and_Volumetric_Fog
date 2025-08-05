@@ -389,12 +389,12 @@
 -analyzer:"G:/Unity/6000.0.54f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"G:/Unity/6000.0.54f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"G:/Unity/6000.0.54f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"G:/Unity-URP-Volumetric-Light-main/Runtime/VolumetricAdditionalLight.cs"
-"G:/Unity-URP-Volumetric-Light-main/Runtime/VolumetricFogRendererFeature.cs"
-"G:/Unity-URP-Volumetric-Light-main/Runtime/VolumetricFogRenderPass.cs"
-"G:/Unity-URP-Volumetric-Light-main/Runtime/VolumetricFogRenderPassEvent.cs"
-"G:/Unity-URP-Volumetric-Light-main/Runtime/VolumetricFogRenderPassEventParameter.cs"
-"G:/Unity-URP-Volumetric-Light-main/Runtime/VolumetricFogVolumeComponent.cs"
+"Assets/Volumetric Light/Runtime/VolumetricAdditionalLight.cs"
+"Assets/Volumetric Light/Runtime/VolumetricFogRendererFeature.cs"
+"Assets/Volumetric Light/Runtime/VolumetricFogRenderPass.cs"
+"Assets/Volumetric Light/Runtime/VolumetricFogRenderPassEvent.cs"
+"Assets/Volumetric Light/Runtime/VolumetricFogRenderPassEventParameter.cs"
+"Assets/Volumetric Light/Runtime/VolumetricFogVolumeComponent.cs"
 -langversion:9.0
 /deterministic
 /optimize+
