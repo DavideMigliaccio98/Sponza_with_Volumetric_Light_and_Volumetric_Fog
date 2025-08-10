@@ -6,7 +6,7 @@ using UnityEngine;
 public class SphereColorizer : MonoBehaviour
 {
     [Header("Configurazione Colore")]
-    [SerializeField] private Color targetColor = Color.red;
+    [SerializeField] private Color targetColor = Color.green;
     [SerializeField] private bool useRandomColor = false;
     [SerializeField] private bool animateColor = false;
     
@@ -107,6 +107,11 @@ public class SphereColorizer : MonoBehaviour
             else if (sphereMaterial.HasProperty("_Albedo"))
             {
                 sphereMaterial.SetColor("_Albedo", color);
+            }
+            else if (sphereMaterial.HasProperty("_EmissionColor"))
+            {
+                sphereMaterial.SetColor("_EmissionColor", color);
+                sphereMaterial.EnableKeyword("_EMISSION");
             }
             else
             {
